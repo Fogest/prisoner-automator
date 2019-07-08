@@ -1,0 +1,16 @@
+[
+{
+  "modid": "prisoner",
+  "name": "Prisoner Automator",
+  "description": "Help aid in improving the accessibility of prison servers for carpal tunnel players",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fogest"],
+  "credits": "Justin <justin@jhvisser.com>",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
